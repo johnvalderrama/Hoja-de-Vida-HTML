@@ -3,7 +3,7 @@
     <head>
     <meta charset="UTF-8">
     <meta http-equiv="""X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width,initiial.scale=1.0">
+    <meta name="viewport" content="width=device-width,initial.scale=1.0">
     <title> <strong>Hoja de Vida</strong></title>
     </head>
 
@@ -12,19 +12,19 @@
          <div class="container">
             <div class="row mt-5">
                 <div class="col-lg-4">
-                  <h2><strong>John F. Valderrama Daza<strong></h2>
+                  <h2><strong>John F. Valderrama Daza</strong></h2>
                   <br>
                   <img src=" C:\Users\Usuario\Documents\GitHub\Taller HTML\Assets\Fotos\VideoCapture_20230123-195547">
                   <br>
                   <div class="contact-data">
-                    <h3><strong>Datos de Contacto<strong></h3>
+                    <h3><strong>Datos de Contacto</strong></h3>
                     <p>johnfvald@yahoo.com.ar<p>
                     <p>3214693135</p>
                     <p>Cra. 17 No. 14 C- 93 Facatativa</p>
                     <p> Barrio Llano del Tunjo          
                 </div>
                 <div class="col-lg-4">
-                    <h3><strong>Experiencia<strong></h3>
+                    <h3><strong>Experiencia</strong></h3>
                         <div class="mt-3">
                         <span class="text muted"> 1989-2020</span>
                         <h4><strong>Estructurador de Proyectos</strong></h4>
@@ -41,7 +41,7 @@
                     </class>
                 </div>
                 <div class="col-lg-4">
-                    <h3><strong>Educacion<strong></h3><br>
+                    <h3><strong>Educacion</strong></h3><br>
                         <h4>Ingeniero Electronico</h4>
                         <h5>Pontificia Universidad Javeriana-97</h5><br>
                         <h4>Especialista Instrumentacion Telecomunicacioes</h4>
@@ -59,9 +59,8 @@
                             <img=C:\Users\Usuario\Documents\GitHub\Taller HTML\Assets\Iconos\Geopolitica><p><strong>Geopolitica</strong><p>        
                         </div>
                 </div>
-                <div class="col-lg-4">
-
-                </div>
-            </div>      
-        </main>
-    </body>
+                
+            </div>
+        </div>
+    </main>
+</body>
